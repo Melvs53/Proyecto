@@ -1,2 +1,2 @@
 # Proyecto
-Proyect to my HighScool
+Proyecto para mi Prepa
